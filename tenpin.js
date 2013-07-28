@@ -149,7 +149,7 @@ var handler = function(input){
 				input = Number(input);
 				if(isNaN(input) || 0 > input || input > 10){ // not in range 0-10
 					error(errorInvalidInput);
-				} else if ( ball > 1 && previous !== 10 && input + previous > 10){ // more than 10 pins!
+				} else if ( ball === 2 && previous !== 10 && input + previous > 10){ // more than 10 pins!
 					error( errorMaxExceeded);
 				} else {
 					// record
