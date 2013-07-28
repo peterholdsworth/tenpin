@@ -151,7 +151,7 @@ var handler = function(input){
 					error(errorInvalidInput);
 				} else if ( ball === 2 && previous !== 10 && input + previous > 10){ // more than 10 pins!
 					error( errorMaxExceeded);
-				} else if ( ball === 3 && scores[player][scores[player].length - 2] === 10 && input + previous > 10){ // more than 10 pins!
+				} else if ( ball === 3 && scores[player][scores[player].length - 2] === 10 && previous !== 10 && input + previous > 10){ // more than 10 pins!
 					error( errorMaxExceeded);
 				} else {
 					// record
