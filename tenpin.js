@@ -111,7 +111,7 @@ var nextPlayer = function(){
 	ball = 1;
 	extra = false;
 	if (player === scores.length){ player = 0; frame++;}
-	if (frame===11){ outputScore(); outputGameOver();}
+	if (frame===11){ outputGameOver();}
 };
 
 var handler = function(input){
