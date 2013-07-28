@@ -1,1 +1,176 @@
-Enter name for Player 1 or return to start game:Enter name for Player 2 or return to start game:Enter name for Player 3 or return to start game:Enter score for Pete Frame 1 Ball 1:Enter score for Pete Frame 1 Ball 2:Enter score for Dave Frame 1 Ball 1:Enter score for Dave Frame 1 Ball 2:Enter score for Pete Frame 2 Ball 1:Enter score for Pete Frame 2 Ball 2:Enter score for Dave Frame 2 Ball 1:Enter score for Dave Frame 2 Ball 2:Enter score for Pete Frame 3 Ball 1:Enter score for Pete Frame 3 Ball 2:Enter score for Dave Frame 3 Ball 1:Enter score for Dave Frame 3 Ball 2:Enter score for Pete Frame 4 Ball 1:Enter score for Pete Frame 4 Ball 2:Enter score for Dave Frame 4 Ball 1:Enter score for Dave Frame 4 Ball 2:Enter score for Pete Frame 5 Ball 1:Enter score for Pete Frame 5 Ball 2:Enter score for Dave Frame 5 Ball 1:Enter score for Dave Frame 5 Ball 2:Enter score for Pete Frame 6 Ball 1:Enter score for Pete Frame 6 Ball 2:Enter score for Dave Frame 6 Ball 1:Enter score for Dave Frame 6 Ball 2:Enter score for Pete Frame 7 Ball 1:Enter score for Pete Frame 7 Ball 2:Enter score for Dave Frame 7 Ball 1:Enter score for Dave Frame 7 Ball 2:Enter score for Pete Frame 8 Ball 1:Enter score for Pete Frame 8 Ball 2:Enter score for Dave Frame 8 Ball 1:Enter score for Dave Frame 8 Ball 2:Enter score for Pete Frame 9 Ball 1:Enter score for Pete Frame 9 Ball 2:Enter score for Dave Frame 9 Ball 1:Enter score for Dave Frame 9 Ball 2:Enter score for Pete Frame 10 Ball 1:Enter score for Pete Frame 10 Ball 2:Enter score for Dave Frame 10 Ball 1:Enter score for Dave Frame 10 Ball 2:Enter score for Dave Frame 10 Ball 3:Enter score for Dave Frame 10 Ball 3:
+Enter name for Player 1 or return to start game:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete                                                   0 
+Team total: 0
+Enter name for Player 2 or return to start game:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete                                                   0 
+Dave                                                   0 
+Team total: 0
+Enter name for Player 3 or return to start game:Enter score for Pete Frame 1 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2                                         2 
+Dave                                                   0 
+Team total: 2
+Enter score for Pete Frame 1 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2                                       4 
+Dave                                                   0 
+Team total: 4
+Enter score for Dave Frame 1 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2                                       4 
+Dave         2                                         2 
+Team total: 6
+Enter score for Dave Frame 1 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2                                       4 
+Dave         2 2                                       4 
+Team total: 8
+Enter score for Pete Frame 2 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2                                     6 
+Dave         2 2                                       4 
+Team total: 10
+Enter score for Pete Frame 2 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2                                   8 
+Dave         2 2                                       4 
+Team total: 12
+Enter score for Dave Frame 2 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2                                   8 
+Dave         2 2 2                                     6 
+Team total: 14
+Enter score for Dave Frame 2 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2                                   8 
+Dave         2 2 2 2                                   8 
+Team total: 16
+Enter score for Pete Frame 3 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2                                 10 
+Dave         2 2 2 2                                   8 
+Team total: 18
+Enter score for Pete Frame 3 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2                               12 
+Dave         2 2 2 2                                   8 
+Team total: 20
+Enter score for Dave Frame 3 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2                               12 
+Dave         2 2 2 2 2                                 10 
+Team total: 22
+Enter score for Dave Frame 3 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2                               12 
+Dave         2 2 2 2 2 2                               12 
+Team total: 24
+Enter score for Pete Frame 4 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2                             14 
+Dave         2 2 2 2 2 2                               12 
+Team total: 26
+Enter score for Pete Frame 4 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2                           16 
+Dave         2 2 2 2 2 2                               12 
+Team total: 28
+Enter score for Dave Frame 4 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2                           16 
+Dave         2 2 2 2 2 2 2                             14 
+Team total: 30
+Enter score for Dave Frame 4 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2                           16 
+Dave         2 2 2 2 2 2 2 2                           16 
+Team total: 32
+Enter score for Pete Frame 5 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2                         18 
+Dave         2 2 2 2 2 2 2 2                           16 
+Team total: 34
+Enter score for Pete Frame 5 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2                       20 
+Dave         2 2 2 2 2 2 2 2                           16 
+Team total: 36
+Enter score for Dave Frame 5 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2                       20 
+Dave         2 2 2 2 2 2 2 2 2                         18 
+Team total: 38
+Enter score for Dave Frame 5 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2                       20 
+Dave         2 2 2 2 2 2 2 2 2 2                       20 
+Team total: 40
+Enter score for Pete Frame 6 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2                     22 
+Dave         2 2 2 2 2 2 2 2 2 2                       20 
+Team total: 42
+Enter score for Pete Frame 6 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2                   24 
+Dave         2 2 2 2 2 2 2 2 2 2                       20 
+Team total: 44
+Enter score for Dave Frame 6 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2                   24 
+Dave         2 2 2 2 2 2 2 2 2 2 2                     22 
+Team total: 46
+Enter score for Dave Frame 6 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2                   24 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2                   24 
+Team total: 48
+Enter score for Pete Frame 7 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2                 26 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2                   24 
+Team total: 50
+Enter score for Pete Frame 7 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2               28 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2                   24 
+Team total: 52
+Enter score for Dave Frame 7 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2               28 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2                 26 
+Team total: 54
+Enter score for Dave Frame 7 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2               28 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2               28 
+Team total: 56
+Enter score for Pete Frame 8 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2             30 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2               28 
+Team total: 58
+Enter score for Pete Frame 8 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2           32 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2               28 
+Team total: 60
+Enter score for Dave Frame 8 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2           32 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2             30 
+Team total: 62
+Enter score for Dave Frame 8 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2           32 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2           32 
+Team total: 64
+Enter score for Pete Frame 9 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2         34 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2           32 
+Team total: 66
+Enter score for Pete Frame 9 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2       36 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2           32 
+Team total: 68
+Enter score for Dave Frame 9 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2       36 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2         34 
+Team total: 70
+Enter score for Dave Frame 9 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2       36 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2       36 
+Team total: 72
+Enter score for Pete Frame 10 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2     38 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2       36 
+Team total: 74
+Enter score for Pete Frame 10 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2   40 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2       36 
+Team total: 76
+Enter score for Dave Frame 10 Ball 1:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2   40 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2     38 
+Team total: 78
+Enter score for Dave Frame 10 Ball 2:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2   40 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 /   46 
+Team total: 86
+Enter score for Dave Frame 10 Ball 3:Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2   40 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 / 8 54 
+Team total: 94
+Name\Frame   1   2   3   4   5   6   7   8   9   10    Total   
+Pete         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2   40 
+Dave         2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 / 8 54 
+Team total: 94
+Game over. The winner is Dave with a score of 54.

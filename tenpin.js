@@ -24,7 +24,7 @@ var rl = readline.createInterface({
   output: process.stdout
 });
 var error = function(e){
-	rl.write(e+"\n");
+	process.stdout.write(e+"\n");
 };
 var prompt = function(e){
 	log("=====>"+e);
@@ -52,7 +52,7 @@ var calc = function(scores) {
 
 var outputScore = function(){
 	var total, grand=0, output, ball, last, i, j, col;
-	rl.write(["Name\\Frame","1","2","3","4","5","6","7","8","9","10"," Total","\n"].join("   "));
+	process.stdout.write(["Name\\Frame","1","2","3","4","5","6","7","8","9","10"," Total","\n"].join("   "));
 	for (i = 0; i < scores.length; i++) {
 		total = 0;
 		output = [];
@@ -81,9 +81,9 @@ var outputScore = function(){
 		grand += total;
 		output[22] = total;
 		output[23] = "\n";
-		rl.write(output.join(" "));
+		process.stdout.write(output.join(" "));
 	}
-	rl.write( "Team total: "+grand.toString()+"\n");
+	process.stdout.write( "Team total: "+grand.toString()+"\n");
 };
 
 var outputGameOver = function(){
@@ -96,7 +96,7 @@ var outputGameOver = function(){
 		score = calc(scores[i]);
 		if( score === max ){ array.push(scores[i][0]);}
 	}
-	rl.write(util.format((array.length > 1)?gameOver2:gameOver, array.join(" and "), max)+"\n");
+	process.stdout.write(util.format((array.length > 1)?gameOver2:gameOver, array.join(" and "), max)+"\n");
 	rl.close();
 	process.exit();
 };
